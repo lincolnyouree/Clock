@@ -1,4 +1,4 @@
-# JavaScript / CSS Clock
+# Clock
 
 * A simple clock built in JavaScript and CSS.
 
